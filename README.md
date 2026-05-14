@@ -1,2 +1,0 @@
-# golus
-🌐 Auto deployed website
